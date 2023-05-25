@@ -3,7 +3,7 @@
 ==========================================================================================================================================
 
 
-My name is André Rabelo. I work as a Software Engineer at Zup Innovation | Itaú Unibanco.
+My name is André Rabelo. I work as a Software Engineer at Nubank.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=andretads&repo=andretads&countColorcountColor)
 
